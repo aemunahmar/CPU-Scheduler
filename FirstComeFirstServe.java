@@ -1,8 +1,3 @@
-//Name: Aemun Ahmar
-//Student ID: 1047508
-//CSCI 310 - M02 Spring 2018
-//Project 1: First Come First Serve
-
 import java.util.*;
 
 public class FirstComeFirstServe 
