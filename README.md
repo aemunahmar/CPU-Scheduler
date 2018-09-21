@@ -1,11 +1,11 @@
 # First Come First Serve CPU Scheduler
 
-# Instructions:
+## Instructions:
 1.  Open the class FirstComeFirstServe.java and run it.
 2.  The program will ask the user to enter the number of processes as well as the burst time and arrival time for each one.
 3.  After entering the information, the program should run and return a chart of each process’s number, Arrival Time, Burst Time, Completion Time, Turnaround Time, and Wait Time. It should also return CPU Utilization, Throughput, Average Waiting Time, and Average Turnaround Time.
 
-# Program Explained
+## Program Explained
 
 The purpose of a CPU Scheduler is to process as many jobs or tasks as possible while maximizing the CPU’s usage of time by choosing which process to run from a list of processes that are ready to execute. There are many algorithms that can be used to schedule processes on a CPU. For this project, the First Come First Serve, or FCFS for short, scheduling algorithm was used. 
 
